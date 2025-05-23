@@ -57,7 +57,7 @@ Underneath is my LinkedIn Account
 
 ### ✅ Evidence
 - [CV GitHub Project (Markdown & Web-based)](https://github.com/wil-it2025/cv-tutorial-HarryMfana)
-- ![CV Screenshot](images/cv-screenshot.jpg)
+- ![CV Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/CV...png)
 
 ### 🧠 Reflection (STAR)
 - **S**: I needed a CV that was both professional and code-based.
@@ -72,6 +72,7 @@ Underneath is my LinkedIn Account
 ### ✅ Evidence
 - Submitted CV on LinkedIn and job portals.
 - [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
+- [LinkedIn Profile While Job Huntering process Screenshot]()
 - ![CV Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Cv1%60.png)
 
 ### 🧠 Reflection (STAR)
@@ -105,7 +106,7 @@ Underneath is my LinkedIn Account
 
 ## 🧠 Soft Skills & Roles
 
-- 👨‍💻 **Scrum Master** (Group Project – Term 4)
+- 👨‍💻 **Scrum Master** (Group Project_Project2 – Term 4)
 - 📊 **Frontend Developer** (UI/UX Design)
 - 🧑‍🏫 Mentor & Communicator
 - 🧩 Problem Solver & Planner
@@ -116,7 +117,7 @@ Underneath is my LinkedIn Account
 
 - 🔗 GitHub Profile: [HarryMfana](https://github.com/HarryMfana)
 - 🔗 LinkedIn: [Mfana Herold Ubisi](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
-- 📧 Email: *[yourname@email.com]*
+- 📧 Email: *[mfanaherold4@gmail.com]*
 
 ---
 

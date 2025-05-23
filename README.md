@@ -43,7 +43,7 @@ Underneath is my LinkedIn Account
 ## 🧬 3. Personality Assessment
 
 ### ✅ Evidence
-- [My 16Personalities Assessment – Advocate (INFJ)](https://www.16personalities.com/infj-personality) *(linked to similar result)*
+- [My 16Personalities Assessment – Advocate (INFJ)](https://www.16personalities.com/infj-personality) 
 
 ### 🧠 Reflection (STAR)
 - **S**: I completed a personality test to gain insights into how I work in teams.
@@ -73,7 +73,9 @@ Underneath is my LinkedIn Account
 - Submitted CV on LinkedIn and job portals.
 - [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
 - ![CV Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Cv1%60.png)
--  [LinkedIn Profile While Job Hunting process Screenshot]()
+- [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
+- ![LinkedIn Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/raw/main/linked%20in.png)
+
 
 ### 🧠 Reflection (STAR)
 - **S**: After completing my CV, I wanted to start applying for internships and entry-level positions.

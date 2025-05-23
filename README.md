@@ -15,6 +15,7 @@ Underneath is my LinkedIn Account
 ### ✅ Evidence
 - Participated in work readiness and career workshops at CPUT.
 - Career exploration while deciding between frontend and backend roles.
+-  ![Career Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Career.png)
 
 ### 🧠 Reflection (STAR)
 - **S**: During a work readiness session at CPUT, I was uncertain whether to focus on frontend or backend development.
@@ -27,6 +28,7 @@ Underneath is my LinkedIn Account
 ## 🛠️ 2. Skills and Interests
 
 ### ✅ Evidence
+- ![CV Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Skills.png)
 - [Loan Management System (Backend)](https://github.com/DeekayMadavha/Loan-Management)
 - [Movie App (Frontend + Backend)](https://github.com/Ezile-Xozwa/movieApplication/tree/222662786)
 - [CV Design Projects](https://github.com/wil-it2025/cv-tutorial-HarryMfana)
@@ -43,7 +45,8 @@ Underneath is my LinkedIn Account
 ## 🧬 3. Personality Assessment
 
 ### ✅ Evidence
-- [My 16Personalities Assessment – Advocate (INFJ)](https://www.16personalities.com/infj-personality) 
+- [My 16Personalities Assessment – Advocate (INFJ)](https://www.16personalities.com/infj-personality)
+-  ![CV Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Personality.png)
 
 ### 🧠 Reflection (STAR)
 - **S**: I completed a personality test to gain insights into how I work in teams.
@@ -71,9 +74,9 @@ Underneath is my LinkedIn Account
 
 ### ✅ Evidence
 - Submitted CV on LinkedIn and job portals.
-- [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
+- [CV Submission]
 - ![CV Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Cv1%60.png)
-- [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
+- [LinkedIn Profile Job Hunting](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
 - ![LinkedIn Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/raw/main/linked%20in.png)
 
 

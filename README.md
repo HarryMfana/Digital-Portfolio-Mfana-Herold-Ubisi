@@ -72,7 +72,7 @@ Underneath is my LinkedIn Account
 ### ✅ Evidence
 - Submitted CV on LinkedIn and job portals.
 - [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
-- ![CV Submission Screenshot](images/linkedin-submission.jpg)
+- ![CV Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Cv1%60.png)
 
 ### 🧠 Reflection (STAR)
 - **S**: After completing my CV, I wanted to start applying for internships and entry-level positions.

@@ -29,8 +29,6 @@ Underneath is my LinkedIn Account
 
 ### ✅ Evidence
 - ![CV Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Skills.png)
-- [Loan Management System (Backend)](https://github.com/DeekayMadavha/Loan-Management)
-- [Movie App (Frontend + Backend)](https://github.com/Ezile-Xozwa/movieApplication/tree/222662786)
 - [CV Design Projects](https://github.com/wil-it2025/cv-tutorial-HarryMfana)
 - [Agile Experience (Scrum Master Role)](https://github.com/HarryMfana/desktop-tutorial)
 
@@ -112,9 +110,9 @@ Underneath is my LinkedIn Account
 ## 🧠 Soft Skills & Roles
 
 - 👨‍💻 **Scrum Master** (Group Project_Project2 – Term 4)
-- 📊 **Frontend Developer** (UI/UX Design)
+- 📊 Planner
 - 🧑‍🏫 Mentor & Communicator
-- 🧩 Problem Solver & Planner
+- 🧩 Problem Solver r
 
 ---
 
@@ -123,6 +121,7 @@ Underneath is my LinkedIn Account
 - 🔗 GitHub Profile: [HarryMfana](https://github.com/HarryMfana)
 - 🔗 LinkedIn: [Mfana Herold Ubisi](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
 - 📧 Email: *[mfanaherold4@gmail.com]*
+-📧 Student Email: *[222662786@mycput.ac.za]*
 
 ---
 

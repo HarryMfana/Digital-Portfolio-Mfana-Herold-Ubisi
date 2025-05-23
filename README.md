@@ -72,7 +72,8 @@ Underneath is my LinkedIn Account
 ### ✅ Evidence
 - Submitted CV on LinkedIn and job portals.
 - [LinkedIn Profile](http://www.linkedin.com/in/mfana-herold-ubisi-74700b234)
-- [LinkedIn Profile While Job Huntering process Screenshot]()
+- [LinkedIn Profile While Job Hunting process Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/linked%20in.png)
+  
 - ![CV Submission Screenshot](https://github.com/HarryMfana/Digital-Portfolio-Mfana-Herold-Ubisi/blob/main/Cv1%60.png)
 
 ### 🧠 Reflection (STAR)
